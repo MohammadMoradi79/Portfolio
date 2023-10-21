@@ -17,7 +17,9 @@
 
   This is the dashboard picture.
 
-![alt text](https://github.com/MohammadMoradi79/PowerBI_Projects/blob/main/SalesDataAnalysis/Capture1.PNG)
+![alt text](https://github.com/MohammadMoradi79/PowerBI_Projects/blob/main/SalesDataAnalysis/SalesAnalysis1.PNG)
+![alt text](https://github.com/MohammadMoradi79/PowerBI_Projects/blob/main/SalesDataAnalysis/SalesAnalysis2.PNG)
+![alt text](https://github.com/MohammadMoradi79/PowerBI_Projects/blob/main/SalesDataAnalysis/SalesAnalysis3.PNG)
 </details>
 
 
